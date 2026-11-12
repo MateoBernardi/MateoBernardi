@@ -15,7 +15,7 @@ I enjoy building things, investigating technical problems, and validating ideas 
 
 ### Selected projects
 
-**[RISC-V Processor Implementation]((https://github.com/MateoBernardi/arquitectura-de-computadoras/tree/main/project_4))**
+**[RISC-V Processor Implementation](https://github.com/MateoBernardi/arquitectura-de-computadoras/tree/main/project_4)**
 
 A RISC-V processor implementation in Verilog, targeting FPGA hardware. Exploring processor architecture through RTL design, synthesis and hardware validation.
 
